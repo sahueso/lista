@@ -135,7 +135,7 @@ INFANTILES
 http://195.154.177.153/DOCUMENTALES/DISNEYCHANNELHD.php
 #EXTINF:-1 tvg-id"00054"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTILES", CARTOON NETWORK
 http://195.154.177.153/INFANTILES/CARTOONNETSD.php
-#EXTINF:-1 tvg-id"00055"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/250px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES", NICK JUNIOR
+#EXTINF:-1 tvg-id"00055"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nick.png/800px-Nick.png" group-title="INFANTILES", NICK
 http://195.154.177.153/INFANTILES/NICKJUNHD.php
 #EXTINF:-1 tvg-id"00056"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="INFANTILES", PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8   
