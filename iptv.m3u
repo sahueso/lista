@@ -4,7 +4,7 @@
 VARIEDADES
 
 
-#EXTINF:-1 tvg-id"00001"tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="VARIEDADES", EL GOURMET
+#EXTINF:-1 tvg-id"EL GOURMET"tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="VARIEDADES", EL GOURMET
 http://195.154.182.177/ARGENTINA/DOMINIOCHROMECAST/HD/GOURNMETHD.php
 #EXTINF:-1 tvg-id"00002" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="VARIEDADES", HOME AND HEALTH
 http://195.154.177.153/DOCUMENTALES/DISCOVERYHOMEALSD.php
