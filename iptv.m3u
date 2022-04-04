@@ -89,7 +89,7 @@ https://sv.spliktv.xyz/live/caster/CA/c3eds/Fox_Sports_Premiun_HD/ab.m3u8
 #EXTINF:-1 tvg-logo="https://www.jonatanalmeira.com/wp-content/uploads/2021/02/ver-TNT-Sports-en-vivo-online-gratis.jpg" group-title="DEPORTES", TNT-SPORT-PREMIUN
 http://195.154.177.153/DEPORTES/TNTSPORTSSD.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/220px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", TNT-SPORT-PREMIUN2
-http://195.154.177.153/DEPORTES/TNTSPORTSSD.php
+https://cdn.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/200px-TyC_Sports_logo.svg.png" group-title="DEPORTES", TYC SPORT
 http://195.154.177.153/DEPORTES/TYCSD.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/300px-Claro_Sports_logo.svg.png" group-title="DEPORTES", CLARO SPORTS
