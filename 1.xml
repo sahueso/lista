@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-  <channel id="EL GOURMET">
-    <display-name lang="es">EL GOURMET</display-name>
-    <icon src="https://elgourmet.com/theme/assets/logo.png" />
-    <url>https://elgourmet.com</url>
-  </channel>
+</channel>
+<channel id="00046">
+	<display-name lang="he">HISTORY CHANNEL IL</display-name>
+	<display-name lang="he">History IL</display-name>
+	<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/100px-History_%282021%29.svg.png" />
+</channel>
