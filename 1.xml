@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="00001">
+    <display-name lang="es">EL GOURMET</display-name>
+    <icon src="https://elgourmet.com/theme/assets/logo.png" />
+    <url>http://www.plus.es</url>
+  </channel>
