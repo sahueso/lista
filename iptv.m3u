@@ -22,8 +22,10 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1353448793_b1912000_sleng.m3u8
 #EXTINF:-1 tvg-id"00009"tvg-logo="https://i.imgur.com/fOhYW3W.png" group-title="VARIEDADES",TRU TV
 https://edge9-hr.cvattv.com.ar//live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
-#EXTINF:-1 tvg-id"00099"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="VARIEDADES",HOME AND GARDEN
-http://200.89.191.164/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden-avc1_899968=10008-mp4a_145200_spa=20002.m3u8
+##EXTINF:-1 tvg-id"00099"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="VARIEDADES",HOME AND GARDEN##
+##http://200.89.191.164/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden-avc1_899968=10008-mp4a_145200_spa=20002.m3u8##
+#EXTINF:-1 tvg-id"00048"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="VARIEDADES", HOMES AND GARDEN
+http://195.154.177.153/DOCUMENTALES/HOMEANDGARDENSD2.php
 
 NOTICIAS
 
@@ -118,8 +120,7 @@ http://195.154.177.153/DOCUMENTALES/THEATERSD.php
 http://195.154.177.153/DOCUMENTALES/HISTORYSD2.php
 #EXTINF:-1 tvg-id"00047"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/110px-History2_logo_%282022%29.svg.png" group-title="DOCUMENTALES", HISTORY CHANNEL 2
 http://38.123.205.70:8000/play/a0dj/index.m3u8
-#EXTINF:-1 tvg-id"00048"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="DOCUMENTALES", HOMES AND GARDEN
-http://195.154.177.153/DOCUMENTALES/HOMEANDGARDENSD2.php
+
 #EXTINF:-1 tvg-id"00049"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES", ID
 http://195.154.177.153/DOCUMENTALES/IDSD2.php
 #EXTINF:-1 tvg-id"000050"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="DOCUMENTALES", NATGEO
