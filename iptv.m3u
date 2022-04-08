@@ -32,7 +32,8 @@ http://todos.aesat.com:38953/live/maxiperez/1706595173/55798.m3u8
 http://todos.aesat.com:38953/live/maxiperez/1706595173/55864.m3u8
 #EXTINF:-1 tvg-id="00125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/2000px-Htv_logo.svg.png" group-title="VARIEDADES",HTV
 http://todos.aesat.com:38953/live/maxiperez/1706595173/74407.m3u8
-
+#EXTINF:-1 tvg-id="00129"  tvg-logo="http://195.154.182.177/logos/VARIEDAD/GLITZ.jpg" group-title="VARIEDADES",GLITZ
+http://todos.aesat.com:47000/live/ramfe6349/725144806/55838.m3u8
 
 NOTICIAS
 
@@ -60,7 +61,8 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="00123"  tvg-logo="https://dl.dropboxusercontent.com/s/jkbe0i1x8hbskgl/CRONICA.jpg?" group-title="NOTICIAS",CRONICA
 http://todos.aesat.com:38953/live/maxiperez/1706595173/55870.m3u8
-
+#EXTINF:-1 tvg-id="00134" tvg-logo="http://195.154.182.177/logos/NOTICIAS/CNNENESPANOL.jpg" group-title="NOTICIAS",*CNN ESPANOL
+http://todos.aesat.com:47000/live/ramfe6349/725144806/2078.m3u8
 
 
 
@@ -136,6 +138,8 @@ http://todos.aesat.com:38953/live/maxiperez/1706595173/1497.m3u8
 http://195.154.177.153/DOCUMENTALES/THEATERSD.php
 #EXTINF:-1 tvg-id"00046"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/100px-History_%282021%29.svg.png" group-title="DOCUMENTALES", HISTORY CHANNEL
 http://195.154.177.153/DOCUMENTALES/HISTORYSD2.php
+#EXTINF:-1 tvg-id="00131"  tvg-logo="https://www.pngfind.com/pngs/m/686-6867682_transparent-history-channel-logo-png-history-channel-logo.png" group-title="DOCUMENTALES",HISTORY CHANNEL FH
+http://todos.aesat.com:47000/live/ramfe6349/725144806/1948.m3u8
 #EXTINF:-1 tvg-id"00047"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/110px-History2_logo_%282022%29.svg.png" group-title="DOCUMENTALES", HISTORY CHANNEL 2
 http://todos.aesat.com:38953/live/maxiperez/1706595173/1584.m3u8
 #EXTINF:-1 tvg-id="00114"tvg-logo="https://dl.dropboxusercontent.com/s/62sinzr2842hlfc/DISCOVERYSICENCE.jpg?" group-title="DOCUMENTALES",DISCOVERY SCIENCE
@@ -188,6 +192,8 @@ http://todos.aesat.com:38953/live/maxiperez/1706595173/1521.m3u8
 http://todos.aesat.com:38953/live/maxiperez/1706595173/1686.m3u8
 #EXTINF:-1 tvg-id="00108"tvg-logo="https://dl.dropboxusercontent.com/s/cmzxgqkmdns2t8p/BABYTV.jpg?" group-title="INFANTILES",BABY TV
 http://todos.aesat.com:38953/live/maxiperez/1706595173/1739.m3u8
+#EXTINF:-1 tvg-id="00130" tvg-logo="https://dl.dropboxusercontent.com/s/umslzciw45vahro/TOONCAST.jpg?dl=0" group-title="INFANTILES",TOONCAST
+http://todos.aesat.com:47000/live/ramfe6349/725144806/55787.m3u8
 #EXTINF:-1 tvg-id="00109" tvg-logo="https://dl.dropboxusercontent.com/s/0mca4q92ajh31h1/YUGUOH.jpg?" group-title="INFANTILES",Yu-Gi-Oh
 http://todos.aesat.com:38953/live/maxiperez/1706595173/75763.m3u8
 #EXTINF:-1 tvg-id="00110"tvg-logo="https://www.enter.co/wp-content/uploads/2021/11/feaddagvkayyzoz-768x432.jpg" group-title="INFANTILES",XMEN
@@ -234,6 +240,8 @@ http://195.154.177.153/CPELICULASYSERIES/HBOPLUSSD.php
 http://195.154.177.153/CPELICULASYSERIES/HBOPOPSD.php
 #EXTINF:-1 tvg-id"00073"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="SERIES Y PELICULAS", HBO SIGNATURE
 http://195.154.177.153/CPELICULASYSERIES/HBOSIGNATUREHD.php
+#EXTINF:-1 tvg-id="00128"  tvg-logo="https://i.ytimg.com/vi/uSq0jeREgDU/maxresdefault.jpg" group-title="SERIES Y PELICULAS",HBO EXTREME
+http://todos.aesat.com:47000/live/ramfe6349/725144806/55821.m3u8
 #EXTINF:-1 tvg-id"00074"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/245px-Paramount_Pictures_Corporation_logo.svg.png" group-title="SERIES Y PELICULAS",PARAMOUNT
 http://195.154.177.153/CPELICULASYSERIES/PARAMOUNTSD.php
 #EXTINF:-1 tvg-id"00075"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="SERIES Y PELICULAS",SPACE
@@ -278,6 +286,17 @@ http://todos.aesat.com:38953/live/maxiperez/1706595173/55826.m3u8
 http://todos.aesat.com:38953/live/maxiperez/1706595173/55858.m3u8
 #EXTINF:-1 tvg-id="00121" tvg-logo="https://dl.dropboxusercontent.com/s/qhptwkcbzulh43n/EUROPA.png?" group-title="SERIES Y PELICULAS",EUROPA EUROPA
 http://todos.aesat.com:38953/live/maxiperez/1706595173/55859.m3u8
+#EXTINF:-1 tvg-id="00135" tvg-logo="http://195.154.182.177/logos/PELICULAS/GOLDEN.jpg" group-title="SERIES Y PELICULAS",EDGE.
+http://todos.aesat.com:47000/live/ramfe6349/725144806/1603.m3u8
+#EXTINF:-1 tvg-id="00136"  tvg-logo="http://195.154.182.177/logos/SERIES/LIFETIME.png" group-title="SERIES Y PELICULAS",LIFETIME
+http://todos.aesat.com:47000/live/ramfe6349/725144806/2040.m3u8
+#EXTINF:-1 tvg-id="00137" tvg-logo="https://www.sony-canal.com/sites/us.sonycanal/files/menu_icons/menu_icon_12122.png" group-title="SERIES Y PELICULAS",SONY COMEDIAS
+http://todos.aesat.com:47000/live/ramfe6349/725144806/97225.m3u8
+
+
+
+
+
 
 MUSICA
 #EXTINF:-1 tvg-id="00118" tvg-logo="https://dl.dropboxusercontent.com/s/krni31v9cmcunej/QUIEROMUSICA.jpg?" group-title="MUSICA",QUIERO MUSICA
@@ -288,3 +307,10 @@ http://todos.aesat.com:38953/live/maxiperez/1706595173/74398.m3u8
 http://todos.aesat.com:38953/live/maxiperez/1706595173/74397.m3u8
 #EXTINF:-1 tvg-id="00128" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/230.png" group-title="MUSICA",CANAL DE LA MUSICA
 http://todos.aesat.com:47000/live/ramfe6349/725144806/55882.m3u8
+#EXTINF:-1 tvg-id="00132"  tvg-logo="http://195.154.182.177/logos/MUSICA/MUSICTOP.png" group-title="MUSICA",MUSIC TOP
+http://todos.aesat.com:47000/live/ramfe6349/725144806/1989.m3u8
+#EXTINF:-1 tvg-id="00133" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="MUSICA",RETRO  MUSIC
+http://todos.aesat.com:47000/live/ramfe6349/725144806/8072.m3u8
+#EXTINF:-1 tvg-id="00134" tvg-logo="https://dl.dropboxusercontent.com/s/yf2juluqthbe4wx/VH1.png?" group-title="MUSICA",*VH1
+http://todos.aesat.com:47000/live/ramfe6349/725144806/1693.m3u8
+
