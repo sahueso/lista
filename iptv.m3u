@@ -38,6 +38,13 @@ EXTINF:-1 tvg-id="00139"  tvg-logo="http://195.154.182.177/logos/VARIEDAD/FOODNE
 http://todos.aesat.com:47000/live/ramfe6349/725144806/1941.m3u8
 #EXTINF:-1 tvg-id="00149" tvg-logo="http://195.154.182.177/logos/VARIEDAD/MASCHIC.png" group-title="VARIEDADES",MAS CHIC
 http://todos.aesat.com:47000/live/ramfe6349/725144806/1774.m3u8
+#EXTINF:-1 tvg-id="00140" tvg-logo="http://195.154.182.177/logos/VARIEDAD/WOBI_logo.png" group-title="VARIEDADES",WOBI
+http://todos.aesat.com:47000/live/ramfe6349/725144806/2065.m3u8
+#EXTINF:-1 tvg-id="00141"  tvg-logo="https://dl.dropboxusercontent.com/s/0bwlitmcopsi2jw/cosmo.png?dl=0" group-title="VARIEDADES"COSMO
+http://todos.aesat.com:47000/live/ramfe6349/725144806/12938.m3u8
+
+
+
 NOTICIAS
 
 #EXTINF:-1 tvg-id"00010"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="NOTICIAS", CANAL 26
