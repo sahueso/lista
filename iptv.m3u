@@ -7,7 +7,7 @@ VARIEDADES
 #EXTINF:-1 tvg-id"EL GOURMET"tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="VARIEDADES", EL GOURMET
 http://195.154.182.177/ARGENTINA/DOMINIOCHROMECAST/HD/GOURNMETHD.php
 #EXTINF:-1 tvg-id"00002" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="VARIEDADES", HOME AND HEALTH
-http://195.154.177.153/DOCUMENTALES/DISCOVERYHOMEALSD.php
+
 #EXTINF:-1 tvg-id"00003" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/200px-Ciudad_magazine_logo.png" group-title="VARIEDADES", MAGAZINE
 http://195.154.177.153/VARIEDADES/MAGAZINESD.php
 #EXTINF:-1 tvg-id"00004" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" group-title="VARIEDADES", ENCUENTRO
@@ -22,8 +22,6 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1353448793_b1912000_sleng.m3u8
 #EXTINF:-1 tvg-id"00009"tvg-logo="https://i.imgur.com/fOhYW3W.png" group-title="VARIEDADES",TRU TV
 https://edge9-hr.cvattv.com.ar//live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
-##EXTINF:-1 tvg-id"00099"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="VARIEDADES",HOME AND GARDEN##
-##http://200.89.191.164/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden-avc1_899968=10008-mp4a_145200_spa=20002.m3u8##
 #EXTINF:-1 tvg-id"00048"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="VARIEDADES", HOMES AND GARDEN
 http://195.154.177.153/DOCUMENTALES/HOMEANDGARDENSD2.php
 #EXTINF:-1 tvg-id"00078"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/135px-TBS_logo_2016.svg.png" group-title="VARIEDADES",TBS
