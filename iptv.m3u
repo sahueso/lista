@@ -215,7 +215,10 @@ http://todos.aesat.com:38953/live/maxiperez/1706595173/92376.m3u8
 http://todos.aesat.com:38953/live/maxiperez/1706595173/92348.m3u8
 #EXTINF:-1 tvg-id="" t tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2015/03/robotech1.jpg" group-title="INFANTILES",ROBOTECH
 http://todos.aesat.com:38953/live/maxiperez/1706595173/92346.m3u8
-
+#EXTINF:-1 tvg-id=""  tvg-logo="https://m.media-amazon.com/images/I/81KqrMNrxqL._SX342_.jpg" group-title="INFANTILES",HI-MAN SERIE
+http://todos.aesat.com:38953/live/maxiperez/1706595173/92337.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/7b/660603.png" group-title="INFANTILES",LA PANTERA ROSA SERIE
+http://todos.aesat.com:38953/live/maxiperez/1706595173/92350.m3u8
 
 
    
