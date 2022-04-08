@@ -36,7 +36,8 @@ http://todos.aesat.com:38953/live/maxiperez/1706595173/74407.m3u8
 http://todos.aesat.com:47000/live/ramfe6349/725144806/55838.m3u8
 EXTINF:-1 tvg-id="00139"  tvg-logo="http://195.154.182.177/logos/VARIEDAD/FOODNETWORK.png" group-title="VARIEDADES",FOOD NETWORK
 http://todos.aesat.com:47000/live/ramfe6349/725144806/1941.m3u8
-
+#EXTINF:-1 tvg-id="00149" tvg-logo="http://195.154.182.177/logos/VARIEDAD/MASCHIC.png" group-title="VARIEDADES",MAS CHIC
+http://todos.aesat.com:47000/live/ramfe6349/725144806/1774.m3u8
 NOTICIAS
 
 #EXTINF:-1 tvg-id"00010"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="NOTICIAS", CANAL 26
