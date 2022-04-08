@@ -152,7 +152,7 @@ http://195.154.177.153/DOCUMENTALES/NATGEOSD.php
 #EXTINF:-1 tvg-id"00051"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/175px-National_Geographic_Wild_logo.svg.png" group-title="DOCUMENTALES", NATGEO WILD
 http://todos.aesat.com:38953/live/maxiperez/1706595173/1573.m3u8
 #EXTINF:-1 tvg-id"00052"tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png" group-title="DOCUMENTALES",UNIVERSAL CRIME
-http://195.154.177.153/DOCUMENTALES/UNIVERSALCRIMEHD.php
+http://todos.aesat.com:47000/live/ramfe6349/725144806/97164.m3u8
 #EXTINF:-1 tvg-id="00113" tvg-logo="http://www.dreadfullykind.com/wp-content/uploads/2017/05/National-Geographic-Logo-1.jpg" group-title="DOCUMENTALES",NAT GEO SUR
 http://todos.aesat.com:38953/live/maxiperez/1706595173/1860.m3u8
 
@@ -260,8 +260,6 @@ http://todos.aesat.com:47000/live/ramfe6349/725144806/97162.m3u8
 http://todos.aesat.com:47000/live/ramfe6349/725144806/97168.m3u8
 #EXTINF:-1 tvg-id="00127" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="SERIES Y PELICULA",UNIVERSAL CINEMA
 http://todos.aesat.com:47000/live/ramfe6349/725144806/97170.m3u8
-#EXTINF:-1 tvg-id="00128" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1538448019_UniversalCrime.png.bfaa1ff2050079afa0539ab7af253e72.png" group-title="SERIES Y PELICULAS",UNIVERSAL CRIME
-http://todos.aesat.com:47000/live/ramfe6349/725144806/97164.m3u8
 #EXTINF:-1 tvg-id"00086"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="SERIES Y PELICULAS",WARNER BROS
 http://195.154.177.153/CPELICULASYSERIES/WARNER.php
 #EXTINF:-1 tvg-id"00087"tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=3" group-title="SERIES Y PELICULAS",MY TIME
