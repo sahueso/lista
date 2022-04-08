@@ -30,8 +30,7 @@ http://195.154.177.153/DOCUMENTALES/HOMEANDGARDENSD2.php
 http://todos.aesat.com:38953/live/maxiperez/1706595173/55798.m3u8
 #EXTINF:-1 tvg-id="00122" tvg-logo="https://dl.dropboxusercontent.com/s/vy7sxn5vbv7ouyk/E%21.jpg?" group-title="VARIEDADES",E!
 http://todos.aesat.com:38953/live/maxiperez/1706595173/55864.m3u8
-#EXTINF:-1 tvg-id="00125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/2000px-Htv_logo.svg.png" group-title="VARIEDADES",HTV
-http://todos.aesat.com:38953/live/maxiperez/1706595173/74407.m3u8
+
 
 
 NOTICIAS
@@ -284,3 +283,5 @@ http://todos.aesat.com:38953/live/maxiperez/1706595173/55806.m3u8
 http://todos.aesat.com:38953/live/maxiperez/1706595173/74398.m3u8
 #EXTINF:-1 tvg-id="00124"  tvg-logo="https://dl.dropboxusercontent.com/s/v4qtleuetas60a7/MTVHITS.jpg?" group-title="MUSICA",MTV HITS
 http://todos.aesat.com:38953/live/maxiperez/1706595173/74397.m3u8
+#EXTINF:-1 tvg-id="00125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/2000px-Htv_logo.svg.png" group-title="MUSICA",HTV
+http://todos.aesat.com:38953/live/maxiperez/1706595173/74407.m3u8
