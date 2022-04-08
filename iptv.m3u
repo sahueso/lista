@@ -7,7 +7,7 @@ VARIEDADES
 #EXTINF:-1 tvg-id"EL GOURMET"tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="VARIEDADES", EL GOURMET
 http://195.154.182.177/ARGENTINA/DOMINIOCHROMECAST/HD/GOURNMETHD.php
 #EXTINF:-1 tvg-id"00002" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="VARIEDADES", HOME AND HEALTH
-
+http://195.154.177.153/DOCUMENTALES/DISCOVERYHOMEALSD.php
 #EXTINF:-1 tvg-id"00003" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/200px-Ciudad_magazine_logo.png" group-title="VARIEDADES", MAGAZINE
 http://195.154.177.153/VARIEDADES/MAGAZINESD.php
 #EXTINF:-1 tvg-id"00004" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" group-title="VARIEDADES", ENCUENTRO
@@ -22,13 +22,16 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1353448793_b1912000_sleng.m3u8
 #EXTINF:-1 tvg-id"00009"tvg-logo="https://i.imgur.com/fOhYW3W.png" group-title="VARIEDADES",TRU TV
 https://edge9-hr.cvattv.com.ar//live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
+##EXTINF:-1 tvg-id"00099"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="VARIEDADES",HOME AND GARDEN##
+##http://200.89.191.164/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden-avc1_899968=10008-mp4a_145200_spa=20002.m3u8##
 #EXTINF:-1 tvg-id"00048"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="VARIEDADES", HOMES AND GARDEN
 http://195.154.177.153/DOCUMENTALES/HOMEANDGARDENSD2.php
 #EXTINF:-1 tvg-id"00078"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/135px-TBS_logo_2016.svg.png" group-title="VARIEDADES",TBS
 http://todos.aesat.com:38953/live/maxiperez/1706595173/55798.m3u8
 #EXTINF:-1 tvg-id="00122" tvg-logo="https://dl.dropboxusercontent.com/s/vy7sxn5vbv7ouyk/E%21.jpg?" group-title="VARIEDADES",E!
 http://todos.aesat.com:38953/live/maxiperez/1706595173/55864.m3u8
-
+#EXTINF:-1 tvg-id="00125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/2000px-Htv_logo.svg.png" group-title="VARIEDADES",HTV
+http://todos.aesat.com:38953/live/maxiperez/1706595173/74407.m3u8
 
 
 NOTICIAS
@@ -250,11 +253,15 @@ http://195.154.177.153/CPELICULASYSERIES/TNTSSERIESHD.php
 #EXTINF:-1 tvg-id"00082"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/180px-Universal_TV_logo.svg.png" group-title="SERIES Y PELICULAS",UNIVERSAL TV
 http://195.154.177.153/CPELICULASYSERIES/UNIVERSAL.php
 #EXTINF:-1 tvg-id"00083"tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="SERIES Y PELICULAS",UNIVERSAL COMEDY
-http://195.154.177.153/CPELICULASYSERIES/UNIVERSALCOMEDYHD.php
+http://todos.aesat.com:47000/live/ramfe6349/725144806/97167.m3u8
 #EXTINF:-1 tvg-id"00084"tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y PELICULAS",UNIVERSAL PREMIERE
-http://195.154.177.153/CPELICULASYSERIES/UNIVERSALPREMEREHD.php
+http://todos.aesat.com:47000/live/ramfe6349/725144806/97162.m3u8
 #EXTINF:-1 tvg-id"00085"tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-reality-dark-logo.png" group-title="SERIES Y PELICULAS",UNIVERSAL REALITY
-http://195.154.177.153/CPELICULASYSERIES/UNIVERSALREALITYHD.php
+http://todos.aesat.com:47000/live/ramfe6349/725144806/97168.m3u8
+#EXTINF:-1 tvg-id="00127" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="SERIES Y PELICULA",UNIVERSAL CINEMA
+http://todos.aesat.com:47000/live/ramfe6349/725144806/97170.m3u8
+#EXTINF:-1 tvg-id="00128" tvg-logo="https://forounivers.com/uploads/monthly_2021_11/large.1538448019_UniversalCrime.png.bfaa1ff2050079afa0539ab7af253e72.png" group-title="SERIES Y PELICULAS",UNIVERSAL CRIME
+http://todos.aesat.com:47000/live/ramfe6349/725144806/97164.m3u8
 #EXTINF:-1 tvg-id"00086"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="SERIES Y PELICULAS",WARNER BROS
 http://195.154.177.153/CPELICULASYSERIES/WARNER.php
 #EXTINF:-1 tvg-id"00087"tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=3" group-title="SERIES Y PELICULAS",MY TIME
@@ -281,5 +288,5 @@ http://todos.aesat.com:38953/live/maxiperez/1706595173/55806.m3u8
 http://todos.aesat.com:38953/live/maxiperez/1706595173/74398.m3u8
 #EXTINF:-1 tvg-id="00124"  tvg-logo="https://dl.dropboxusercontent.com/s/v4qtleuetas60a7/MTVHITS.jpg?" group-title="MUSICA",MTV HITS
 http://todos.aesat.com:38953/live/maxiperez/1706595173/74397.m3u8
-#EXTINF:-1 tvg-id="00125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/2000px-Htv_logo.svg.png" group-title="MUSICA",HTV
-http://todos.aesat.com:38953/live/maxiperez/1706595173/74407.m3u8
+#EXTINF:-1 tvg-id="00128" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/230.png" group-title="MUSICA",CANAL DE LA MUSICA
+http://todos.aesat.com:47000/live/ramfe6349/725144806/55882.m3u8
