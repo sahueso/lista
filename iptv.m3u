@@ -235,11 +235,11 @@ http://todos.aesat.com:38953/live/maxiperez/1706595173/92346.m3u8
 http://todos.aesat.com:38953/live/maxiperez/1706595173/92337.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/v2/programas/7b/660603.png" group-title="INFANTILES",LA PANTERA ROSA SERIE
 http://todos.aesat.com:38953/live/maxiperez/1706595173/92350.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i2.paste.pics/7ad3396e3452a6091357ca64d5cb8951.png",group-title="INFANTILES", ANIPLUS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i2.paste.pics/7ad3396e3452a6091357ca64d5cb8951.png" group-title="INFANTILES", ANIPLUS
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id=""  tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png", group-title="INFANTILES", ANIME ZONE
+#EXTINF:-1 tvg-id=""  tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="INFANTILES", ANIME ZONE
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-logo="https://i2.paste.pics/57df1ed81da2a40731b3063e85119801.png", group-title="INFANTILES ,FOX KIDS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i2.paste.pics/57df1ed81da2a40731b3063e85119801.png" group-title="INFANTILES" ,FOX KIDS
 http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="INFANTILES", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
