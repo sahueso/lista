@@ -4,45 +4,45 @@
 VARIEDADES
 
 
-#EXTINF:-1 tvg-id"EL GOURMET"tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="VARIEDADES", EL GOURMET
+#EXTINF:-1 tvg-id"EL GOURMET"tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/ELGOURMET.jpg" group-title="VARIEDADES", EL GOURMET
 http://195.154.182.177/ARGENTINA/DOMINIOCHROMECAST/HD/GOURNMETHD.php
-#EXTINF:-1 tvg-id"00002" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png" group-title="VARIEDADES", HOME AND HEALTH
+#EXTINF:-1 tvg-id"00002" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/DISCOVERYHYH.png" group-title="VARIEDADES", HOME AND HEALTH
 http://195.154.177.153/DOCUMENTALES/DISCOVERYHOMEALSD.php
-#EXTINF:-1 tvg-id"00003" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ciudad_magazine_logo.png/200px-Ciudad_magazine_logo.png" group-title="VARIEDADES", MAGAZINE
+#EXTINF:-1 tvg-id"00003" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/CIUDADMAGAZINE.png" group-title="VARIEDADES", MAGAZINE
 http://195.154.177.153/VARIEDADES/MAGAZINESD.php
-#EXTINF:-1 tvg-id"00004" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" group-title="VARIEDADES", ENCUENTRO
+#EXTINF:-1 tvg-id"00004" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/ENCUENTRO.jpg" group-title="VARIEDADES", ENCUENTRO
 http://195.154.177.153/LOCALESARG/ENCUENTROHD.php
-#EXTINF:-1 tvg-id"00005" tvg-logo="https://i.imgur.com/HFGGwWi.png" group-title="VARIEDADES", KZO
+#EXTINF:-1 tvg-id"00005" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/KZO.jpg" group-title="VARIEDADES", KZO
 http://195.154.177.153/LOCALESARG/KZOHD.php
-#EXTINF:-1 tvg-id"00006" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png" group-title="VARIEDADES", NET TV 
+#EXTINF:-1 tvg-id"00006" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/NETTV.png" group-title="VARIEDADES", NET TV 
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-id"00007"tvg-logo="https://cdn.mitvstatic.com/channels/cl_el-garage_m.png" group-title="VARIEDADES",EL GARAGE TV
+#EXTINF:-1 tvg-id"00007"tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/GARAGE.jpg" group-title="VARIEDADES",EL GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-#EXTINF:-1 tvg-id"00008"tvg-logo="http://television.com.ar/wp-content/uploads/2010/07/ARGENTINISIMA-.jpg" group-title="VARIEDADES",ARGENTINÍSIMA SATELITAL
+#EXTINF:-1 tvg-id"00008"tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/ARGENTINISIMA.jpg" group-title="VARIEDADES",ARGENTINÍSIMA SATELITAL
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1353448793_b1912000_sleng.m3u8
-#EXTINF:-1 tvg-id"00009"tvg-logo="https://i.imgur.com/fOhYW3W.png" group-title="VARIEDADES",TRU TV
+#EXTINF:-1 tvg-id"00009"tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/TRUTV.jpg" group-title="VARIEDADES",TRU TV
 https://edge9-hr.cvattv.com.ar//live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
-#EXTINF:-1 tvg-id"00048"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="VARIEDADES", HOMES AND GARDEN
+#EXTINF:-1 tvg-id"00048"tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/HOMEANDGARDENTELEVISION.png" group-title="VARIEDADES", HOMES AND GARDEN
 http://195.154.177.153/DOCUMENTALES/HOMEANDGARDENSD2.php
-#EXTINF:-1 tvg-id"00078"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/135px-TBS_logo_2016.svg.png" group-title="VARIEDADES",TBS
+#EXTINF:-1 tvg-id"00078"tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/TBS.jpg" group-title="VARIEDADES",TBS
 http://todos.aesat.com:38953/live/maxiperez/1706595173/55798.m3u8
-#EXTINF:-1 tvg-id="00122" tvg-logo="https://dl.dropboxusercontent.com/s/vy7sxn5vbv7ouyk/E%21.jpg?" group-title="VARIEDADES",E!
+#EXTINF:-1 tvg-id="00122" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/E!.jpg?" group-title="VARIEDADES",E!
 http://todos.aesat.com:38953/live/maxiperez/1706595173/55864.m3u8
-#EXTINF:-1 tvg-id="00125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/2000px-Htv_logo.svg.png" group-title="VARIEDADES",HTV
+#EXTINF:-1 tvg-id="00125" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/HTV.png" group-title="VARIEDADES",HTV
 http://todos.aesat.com:38953/live/maxiperez/1706595173/74407.m3u8
-#EXTINF:-1 tvg-id="00129"  tvg-logo="http://195.154.182.177/logos/VARIEDAD/GLITZ.jpg" group-title="VARIEDADES",GLITZ
+#EXTINF:-1 tvg-id="00129"  tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/GLITZ.jpg" group-title="VARIEDADES",GLITZ
 http://todos.aesat.com:47000/live/ramfe6349/725144806/55838.m3u8
-EXTINF:-1 tvg-id="00139"  tvg-logo="http://195.154.182.177/logos/VARIEDAD/FOODNETWORK.png" group-title="VARIEDADES",FOOD NETWORK
+EXTINF:-1 tvg-id="00139"  tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/Food_Network.png" group-title="VARIEDADES",FOOD NETWORK
 http://todos.aesat.com:47000/live/ramfe6349/725144806/1941.m3u8
-#EXTINF:-1 tvg-id="00149" tvg-logo="http://195.154.182.177/logos/VARIEDAD/MASCHIC.png" group-title="VARIEDADES",MAS CHIC
+#EXTINF:-1 tvg-id="00149" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/MASCHIC.png" group-title="VARIEDADES",MAS CHIC
 http://todos.aesat.com:47000/live/ramfe6349/725144806/1774.m3u8
-#EXTINF:-1 tvg-id="00140" tvg-logo="http://195.154.182.177/logos/VARIEDAD/WOBI_logo.png" group-title="VARIEDADES",WOBI
+#EXTINF:-1 tvg-id="00140" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/WOBI_logo.png" group-title="VARIEDADES",WOBI
 http://todos.aesat.com:47000/live/ramfe6349/725144806/2065.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/-6W3lyz48LJQ/X8__9zMfZDI/AAAAAAAA8Cs/yddCBer685MzMn3-Z4sqv6IouOkY_hdcgCK8BGAsYHg/s0/2020-12-08.jpg" group-title="VARIEDADES", CANAL RURAL
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/CANALRURAL.png" group-title="VARIEDADES", CANAL RURAL
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="VARIEDADES", TELEMAX
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/TELEMAX.png" group-title="VARIEDADES", TELEMAX
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CGTN-Español.png" group-title="VARIEDADES",CGTN Español
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/CGTNESPANIOL.png" group-title="VARIEDADES",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 
@@ -372,4 +372,3 @@ http://todos.aesat.com:47000/live/ramfe6349/725144806/1989.m3u8
 http://todos.aesat.com:47000/live/ramfe6349/725144806/8072.m3u8
 #EXTINF:-1 tvg-id="00134" tvg-logo="https://dl.dropboxusercontent.com/s/yf2juluqthbe4wx/VH1.png?" group-title="MUSICA",VH1
 http://todos.aesat.com:47000/live/ramfe6349/725144806/1693.m3u8
-
