@@ -6,28 +6,45 @@ VARIEDADES
 
 #EXTINF:-1 tvg-id"EL GOURMET"tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/ELGOURMET.jpg" group-title="VARIEDADES", EL GOURMET
 http://195.154.182.177/ARGENTINA/DOMINIOCHROMECAST/HD/GOURNMETHD.php
+
 #EXTINF:-1 tvg-id"00002" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/DISCOVERYHYH.png" group-title="VARIEDADES", HOME AND HEALTH
 http://195.154.177.153/DOCUMENTALES/DISCOVERYHOMEALSD.php
+
 #EXTINF:-1 tvg-id"00003" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/CIUDADMAGAZINE.png" group-title="VARIEDADES", MAGAZINE
 http://195.154.177.153/VARIEDADES/MAGAZINESD.php
+
 #EXTINF:-1 tvg-id"00004" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/ENCUENTRO.jpg" group-title="VARIEDADES", ENCUENTRO
 http://195.154.177.153/LOCALESARG/ENCUENTROHD.php
+
 #EXTINF:-1 tvg-id"00005" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/KZO.jpg" group-title="VARIEDADES", KZO
 http://195.154.177.153/LOCALESARG/KZOHD.php
+
 #EXTINF:-1 tvg-id"00006" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/NETTV.png" group-title="VARIEDADES", NET TV 
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+
 #EXTINF:-1 tvg-id"00007"tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/GARAGE.jpg" group-title="VARIEDADES",EL GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id"00008"tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/ARGENTINISIMA.jpg" group-title="VARIEDADES",ARGENTINÍSIMA SATELITAL
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1353448793_b1912000_sleng.m3u8
+
 #EXTINF:-1 tvg-id"00009"tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/TRUTV.jpg" group-title="VARIEDADES",TRU TV
 https://edge9-hr.cvattv.com.ar//live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
+
 #EXTINF:-1 tvg-id"00048"tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/HOMEANDGARDENTELEVISION.png" group-title="VARIEDADES", HOMES AND GARDEN
 http://195.154.177.153/DOCUMENTALES/HOMEANDGARDENSD2.php
+
 #EXTINF:-1 tvg-id"00078"tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/TBS.jpg" group-title="VARIEDADES",TBS
-http://todos.aesat.com:38953/live/maxiperez/1706595173/55798.m3u8
+http://177.128.115.10:8000/play/a01r
+##http://45.71.185.142:8500/play/a03k##
+##http://todos.aesat.com:38953/live/maxiperez/1706595173/55798.m3u8##
+
 #EXTINF:-1 tvg-id="00122" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/E!.jpg?" group-title="VARIEDADES",E!
-http://todos.aesat.com:38953/live/maxiperez/1706595173/55864.m3u8
+http://190.83.119.67:8000/play/a0r5/index.m3u8
+##http://todos.aesat.com:38953/live/maxiperez/1706595173/55864.m3u8##
+##http://190.83.119.67:8000/play/a0t7/index.m3u8##   INGLES
+##https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television.m3u8##  INGLES
+
 #EXTINF:-1 tvg-id="00125" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/HTV.png" group-title="VARIEDADES",HTV
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HTV/SA_SAGEMCOM/HTV.m3u8
 #EXTINF:-1 tvg-id="00129"  tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/GLITZ.jpg" group-title="VARIEDADES",GLITZ
