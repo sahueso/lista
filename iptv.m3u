@@ -29,7 +29,7 @@ http://todos.aesat.com:38953/live/maxiperez/1706595173/55798.m3u8
 #EXTINF:-1 tvg-id="00122" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/E!.jpg?" group-title="VARIEDADES",E!
 http://todos.aesat.com:38953/live/maxiperez/1706595173/55864.m3u8
 #EXTINF:-1 tvg-id="00125" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/HTV.png" group-title="VARIEDADES",HTV
-http://todos.aesat.com:38953/live/maxiperez/1706595173/74407.m3u8
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HTV/SA_SAGEMCOM/HTV.m3u8
 #EXTINF:-1 tvg-id="00129"  tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/GLITZ.jpg" group-title="VARIEDADES",GLITZ
 http://todos.aesat.com:47000/live/ramfe6349/725144806/55838.m3u8
 EXTINF:-1 tvg-id="00139"  tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/Food_Network.png" group-title="VARIEDADES",FOOD NETWORK
@@ -44,6 +44,7 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
 http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/1-VARIEDADES/CGTNESPANIOL.png" group-title="VARIEDADES",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
+##https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8##
 
 
 NOTICIAS
@@ -79,6 +80,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png" group-title="NOTICIAS",EURONEWS ES
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
+##EXTINF: -1 tvg-logo = "https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title = "Mundo", NHK World##
+##https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8##
 
 CANAL DE AIRE
 
@@ -137,7 +140,9 @@ http://todos.aesat.com:38953/live/maxiperez/1706595173/48267.m3u8
 http://todos.aesat.com:38953/live/maxiperez/1706595173/70513.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS FULL HD" tvg-logo="https://tntsports.com.ar/__export/1610632432438/sites/tntsports/arte/apps/twitter_summary_card_20210114.jpg" group-title="LIGA y COPA ARG",TNT SPORTS FULL HD
 http://todos.aesat.com:38953/live/maxiperez/1706595173/97256.m3u8
-
+###EXTINF:-1, FOX Sports Premium##
+##https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8##
+##https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8##
 
 DOCUMENTALES
 
@@ -361,9 +366,9 @@ MUSICA
 #EXTINF:-1 tvg-id="00118" tvg-logo="https://dl.dropboxusercontent.com/s/krni31v9cmcunej/QUIEROMUSICA.jpg?" group-title="MUSICA",QUIERO MUSICA
 http://todos.aesat.com:38953/live/maxiperez/1706595173/55806.m3u8
 #EXTINF:-1 tvg-id="00123" tvg-logo="https://dl.dropboxusercontent.com/s/zr0jlgjg5bw1b0h/MTV.png?" group-title="MUSICA",MTV
-http://todos.aesat.com:38953/live/maxiperez/1706595173/74398.m3u8
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
 #EXTINF:-1 tvg-id="00124"  tvg-logo="https://dl.dropboxusercontent.com/s/v4qtleuetas60a7/MTVHITS.jpg?" group-title="MUSICA",MTV HITS
-http://todos.aesat.com:38953/live/maxiperez/1706595173/74397.m3u8
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
 #EXTINF:-1 tvg-id="00128" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/230.png" group-title="MUSICA",CANAL DE LA MUSICA
 http://todos.aesat.com:47000/live/ramfe6349/725144806/55882.m3u8
 #EXTINF:-1 tvg-id="00132"  tvg-logo="http://195.154.182.177/logos/MUSICA/MUSICTOP.png" group-title="MUSICA",MUSIC TOP
