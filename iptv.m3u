@@ -221,7 +221,7 @@ http://195.154.177.153/DOCUMENTALES/IDSD2.php
 #EXTINF:-1 tvg-id"000050"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="DOCUMENTALES", NATGEO
 http://195.154.177.153/DOCUMENTALES/NATGEOSD.php
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/5-DOCUMENTALES/HISTORY2-1.png?" group-title="DOCUMENTALES",HISTORY 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/5-DOCUMENTALES/HISTORY2-1.png" group-title="DOCUMENTALES",HISTORY 2
 https://edge5-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 
 #EXTINF:-1 tvg-id""tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/5-DOCUMENTALES/UTMTV.png" group-title="DOCUMENTALES", UTNTV
