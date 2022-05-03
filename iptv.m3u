@@ -198,6 +198,11 @@ http://195.154.177.153/DOCUMENTALES/DISCOVERYWORLDSD.php
 #EXTINF:-1 tvg-id"00044"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="DOCUMENTALES", DISCOVERY TURBO
 http://177.128.115.10:8000/play/a00f
 
+
+#EXTINF:-1 tvg-id="00114"tvg-logo="https://github.com/sahueso/Logos/blob/main/5-DOCUMENTALES/Discovery_Science-2012.png" group-title="DOCUMENTALES",DISCOVERY SCIENCE
+https://edge5-sl.cvattv.com.ar/live/c6eds/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
+
+
 #EXTINF:-1 tvg-id"00045"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTALES", DISCOVERY THEATER
 http://195.154.177.153/DOCUMENTALES/THEATERSD.php
 
@@ -216,9 +221,11 @@ http://195.154.177.153/DOCUMENTALES/IDSD2.php
 #EXTINF:-1 tvg-id"000050"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="DOCUMENTALES", NATGEO
 http://195.154.177.153/DOCUMENTALES/NATGEOSD.php
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/hre61rjk89985b4/HISTORYCHANNEL2.jpg?" group-title="DOCUMENTALES",HISTORY 2
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/5-DOCUMENTALES/HISTORY2-1.png?" group-title="DOCUMENTALES",HISTORY 2
+https://edge5-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 
+#EXTINF:-1 tvg-id""tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/5-DOCUMENTALES/UTMTV.png" group-title="DOCUMENTALES", UTNTV
+https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
 
 
 
@@ -231,8 +238,8 @@ http://195.154.177.153/DOCUMENTALES/DISNEYCHANNELHD.php
 #EXTINF:-1 tvg-id="00106" tvg-logo="https://dl.dropboxusercontent.com/s/n06q0780ysb12ol/DISNEYJUNIORS.jpg?" group-title="INFANTILES",DISNEY JR
 http://177.128.115.10:8000/play/a01k
 
-#EXTINF:-1 tvg-id="00104" tvg-logo="https://dl.dropboxusercontent.com/s/umslzciw45vahro/TOONCAST.jpg?dl=0" group-title="INFANTILES",TOONCAST
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
+#EXTINF:-1 tvg-id="00130" tvg-logo="https://github.com/sahueso/Logos/blob/main/7-INFANTILES/tooncast.png" group-title="INFANTILES",TOONCAST
+https://edge3-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=""https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png" group-title="INFANTILES",Toon Goggles
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
@@ -248,21 +255,38 @@ http://45.71.185.142:8500/play/a001
 
 #EXTINF:-1 tvg-id"00056"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="INFANTILES", PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8  
- 
+
+#EXTINF:-1 tvg-id="00108"tvg-logo="https://github.com/sahueso/Logos/blob/main/7-INFANTILES/BABY%20TV.png" group-title="INFANTILES",BABY TV
+https://edge3-sl.cvattv.com.ar/live/c7eds/BabyTV/SA_SAGEMCOM/BabyTV.m3u8
+
 #EXTINF:-1 tvg-id="00107" tvg-logo="http://iptvparatodos.net/peli_/Peliculas/logos/discoverykids.png" group-title="INFANTILES",DISCOVERY KIDS
 hhttp://177.128.115.10:8000/play/a013
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/7-INFANTILES/Cartoonito-2021.png" group-title="INFANTILES",CARTOONITO
+https://edge3.prepro.cvattv.com.ar/live/vod/Boomerang/SA_Live_WebVTT_FTA/Boomerang.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i2.paste.pics/7ad3396e3452a6091357ca64d5cb8951.png" group-title="INFANTILES", ANIPLUS
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/7-INFANTILES/ENERGEEK.png" group-title="INFANTILES",ENERGEEK
+https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/7-INFANTILES/ENERGEEK%202.png" group-title="INFANTILES",ENERGEEK2
+https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/7-INFANTILES/CONTVANIME.png" group-title="INFANTILES",CON TV ANIME
+https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
 
 #EXTINF:-1,CARTOONS
 http://181.176.148.142:8000/play/a009
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/7-INFANTILES/TOONGOGGLES.png" group-title="INFANTILES",TOON GOGGLES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="INFANTILES", ANIME ZONE
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i2.paste.pics/57df1ed81da2a40731b3063e85119801.png" group-title="INFANTILES" ,FOX KIDS
 http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 
