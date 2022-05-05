@@ -214,19 +214,24 @@ http://177.128.115.10:8000/play/a00w
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU" group-title="DOCUMENTALES", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
-#http://195.154.177.153/LOVE.php
 
 #EXTINF:-1 tvg-id"00049"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="DOCUMENTALES", ID
 http://195.154.177.153/DOCUMENTALES/IDSD2.php
 
+#EXTINF:-1 tvg-id"00052"tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-crime-dark-logo.png" group-title="DOCUMENTALES",UNIVERSAL CRIME
+http://compitv.info:8080/Esteban2021/Esteban2022/323742
+
 #EXTINF:-1 tvg-id"000050"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="DOCUMENTALES", NATGEO
 http://195.154.177.153/DOCUMENTALES/NATGEOSD.php
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/5-DOCUMENTALES/HISTORY2-1.png" group-title="DOCUMENTALES",HISTORY 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/5-DOCUMENTALES/HISTORY2-1.png?" group-title="DOCUMENTALES",HISTORY 2
 https://edge5-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 
 #EXTINF:-1 tvg-id""tvg-logo="https://raw.githubusercontent.com/sahueso/Logos/main/5-DOCUMENTALES/UTMTV.png" group-title="DOCUMENTALES", UTNTV
 https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id"00051"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/175px-National_Geographic_Wild_logo.svg.png" group-title="DOCUMENTALES", NATGEO WILD
+http://compitv.info:8080/Esteban2021/Esteban2022/252466
 
 
 
@@ -376,6 +381,15 @@ http://195.154.177.153/CPELICULASYSERIES/STARCHANNELSD.php
 #EXTINF:-1 tvg-id"00076"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="SERIES Y PELICULAS",ESTUDIO UNIVERSAL
 http://195.154.177.153/CPELICULASYSERIES/STUDIOSD.php
 
+#EXTINF:-1 tvg-id="00127" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title="SERIES Y PELICULAS",UNIVERSAL CINEMA
+http://compitv.info:8080/Esteban2021/Esteban2022/323741
+
+#EXTINF:-1 tvg-id"00084"tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-premiere-dark-logo.png" group-title="SERIES Y PELICULAS",UNIVERSAL PREMIERE
+http://compitv.info:8080/Esteban2021/Esteban2022/323743
+
+#EXTINF:-1 tvg-id"00083"tvg-logo="https://www.izzi.mx/izziweb/img/dummy-img/logos/universal-comedy-dark-logo.png" group-title="SERIES Y PELICULAS",UNIVERSAL COMEDY
+http://compitv.info:8080/Esteban2021/Esteban2022/323744
+
 #EXTINF:-1 tvg-id"00077"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/150px-SYFY.svg.png" group-title="SERIES Y PELICULAS",SYFY
 http://195.154.177.153/CPELICULASYSERIES/SYFYSD.php
 
@@ -432,6 +446,8 @@ https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 tvg-id="00119" tvg-logo="http://195.154.182.177/logos/PELICULAS/ISAT.jpg" group-title="SERIES Y PELICULAS",ISAT
 http://177.128.115.10:8000/play/a02e
 
+#EXTINF:-1 tvg-id="00136"  tvg-logo="http://195.154.182.177/logos/SERIES/LIFETIME.png" group-title="SERIES Y PELICULAS",LIFETIME
+http://compitv.info:8080/Esteban2021/Esteban2022/47767
 
 
 
