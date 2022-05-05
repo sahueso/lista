@@ -200,7 +200,7 @@ http://177.128.115.10:8000/play/a00f
 
 
 #EXTINF:-1 tvg-id="00114"tvg-logo="https://github.com/sahueso/Logos/blob/main/5-DOCUMENTALES/DiscoveryScience.png" group-title="DOCUMENTALES",DISCOVERY SCIENCE
-http://compitv.info:8080/Esteban2021/Esteban2022/252443
+https://edge5-sl.cvattv.com.ar/live/c6eds/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
 
 
 #EXTINF:-1 tvg-id"00045"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTALES", DISCOVERY THEATER
@@ -312,7 +312,7 @@ https://m3u-editor.com/serve/televitolibre/511006844.m3u8
 https://legochannel-roku.amagi.tv/playlist.m3u8
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://i.imgur.com/YJ4NnR8.png" group-title="INFANTILES", SIMPSONS  TV
-https://m3u-editor.com/serve/televitolibre/511000630.m3u8   
+https://m3u-editor.com/serve/televitolibre/497955343
    
    
    
